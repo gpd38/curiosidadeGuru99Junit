@@ -9,8 +9,7 @@ Estudando Junit com base no tutorial do site guru99.
 </p>
 
 <p align="center">
-	<a href="#Projeto">Projeto</a> •
-	<a href="#Códigos">Códigos</a> •
+	<a href="#Tutorial">Tutorial</a> •
 	<a href="#Licença">Licença</a> •
 	<a href="#Bibliografia">Bibliografia</a>
 </p>
